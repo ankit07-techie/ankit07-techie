@@ -89,7 +89,7 @@ Database  ━━━ Supabase (Managed PostgreSQL)
 ```
 
 ### 👥 [Work Buddy Platform](https://github.com/ankit07-techie/work-buddy) - Team Recruitment
-Platform connecting developers and students to form teams for hackathons and collaborative projects.
+Platform connecting developers and students to form teams for hackathons  and collaborative projects.
 
 **Tech:** React • Node.js • MongoDB  
 **Features:** User profiles • Team formation • Skill matching
