@@ -12,7 +12,7 @@ Building elegant solutions to complex problems. Passionate about **Generative AI
 - 🎯 **Competitive Programming** - Solving algorithmic problems and optimizing solutions
 - 🚀 **Deployment & DevOps** - Shipping applications to production (Vercel, Railway, Netlify)
 - 🤖 **AI Integration** - Working with Hugging Face, Ollama, and AI-assisted development
-- 🎨 **Modern UI/UX** - Creating responsive, beautiful interfaces with React and Tailwind CSS
+- 🎨 **Modern UI/UX** - Creating responsive, beautiful interfaces with React and Tailwind  CSS
 
 ---
 
